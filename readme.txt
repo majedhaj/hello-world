@@ -1,1 +1,1 @@
-this is a new file to be added to the git repository
+this is a new file to be modified to the git repository
